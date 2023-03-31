@@ -1,6 +1,5 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Neil Choromokos</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A life long learner of Computer Science</h3>
 
 - 🌱 I’m currently learning **Blockchain/Web3, Java, Data Sci, Unix Systems**
 
