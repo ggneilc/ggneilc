@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Neil Choromokos</h1>
 <h3 align="center">A life long learner of Computer Science</h3>
 
-- 🌱 I’m currently learning **Blockchain/Web3, Java, Data Sci, Unix Systems**
+- 🌱 I’m currently learning **Java, Javascript, Go, Python, Bash, SQL, & Solidity**
 
 - 💬 Ask me about **self improvement👀**
 
-- 📫 How to reach me **nchurro25@gmail.com**
+- 📫 How to reach me **nchurro25@proton.me**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
