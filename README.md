@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neil Choromokos</h1>
 <h3 align="center">A life long learner of Computer Science</h3>
 
-- 🌱 I’m currently learning **Java, Javascript, Go, Python, Bash, SQL, & Solidity**
+- 🌱 I’m currently learning **Javascript, Go, Bash, SQL, & Solidity**
 
 - 💬 Ask me about **self improvement👀**
 
