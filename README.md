@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neil Choromokos</h1>
 <h3 align="center">A life long learner of Computer Science</h3>
 
-- 🌱 I’m currently studying **high performance & scientific/statistical computing** with _python & C/C++_.  
+- 🌱 I’m currently studying **high performance & scientific/statistical computing** with _Python, C/C++, & R_.  
 
 - 💬 Ask me about **self improvement👀**
 
