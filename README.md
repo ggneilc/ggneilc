@@ -4,7 +4,7 @@ Computer science B.Sc.
 Statistics minor
 - Iowa State University
 
-I like and building models and end-to-end systems.
+I like building models and end-to-end systems.
 My favorite languages are C and Python.
 ```
 > ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
